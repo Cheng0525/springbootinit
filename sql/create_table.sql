@@ -1,5 +1,5 @@
 # 数据库初始化
- 作者：[菜鸟程序员](https://github.com/cheng0525)
+--  作者：[菜鸟程序员](https://github.com/cheng0525)
 
 -- 创建库
 create database if not exists my_db;

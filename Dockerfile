@@ -1,5 +1,5 @@
 # Docker 镜像构建
- 作者：[菜鸟程序员](https://github.com/cheng0525)
+# 作者：[菜鸟程序员](https://github.com/cheng0525)
 FROM maven:3.8.1-jdk-8-slim as builder
 
 # Copy local code to the container image.
